@@ -1,5 +1,6 @@
 import '../styles/style.css'
 import MobileMenu from './modules/MobileMenu'
+import StickeyHeader from './modules/StickeyHeader'
 // import Person from './modules/Person'
 
 
