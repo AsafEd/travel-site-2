@@ -1,6 +1,7 @@
 import '../styles/style.css'
 import MobileMenu from './modules/MobileMenu'
 import RevealOnScroll from './modules/revealOnScroll'
+import StickeyHeader from './modules/StickeyHeader'
 // import Person from './modules/Person'
 
  new RevealOnScroll(document.querySelectorAll('.feature-item'),75); 
