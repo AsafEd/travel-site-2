@@ -4,6 +4,7 @@ import StickeyHeader from './modules/StickeyHeader'
 // import Person from './modules/Person'
 
 
+let stickeyHeader = new StickeyHeader();
 let mobileMenu = new MobileMenu();
 
 if(module.hot){
