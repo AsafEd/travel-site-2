@@ -7,6 +7,7 @@ import StickeyHeader from './modules/StickeyHeader'
  new RevealOnScroll(document.querySelectorAll('.feature-item'),75);
  new RevealOnScroll(document.querySelectorAll('.testimonial'),60); 
 
+let stickeyHeader = new StickeyHeader();
 let mobileMenu = new MobileMenu();
 
 if(module.hot){
